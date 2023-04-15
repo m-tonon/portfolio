@@ -1263,6 +1263,18 @@ icon
   padding: 0.5rem;
 }
 
+.skill-project-angular {
+  padding-top: 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center
+}
+
+.skill-project-angular img{
+  width: 60px;
+  padding: 0.5rem;
+}
+
 .icon-row {
   list-style: none;
   align-items: center;
